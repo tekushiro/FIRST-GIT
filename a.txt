@@ -2,3 +2,4 @@ a
 b
 add index
 pull index
+commit index
